@@ -1,3 +1,7 @@
+https://hashhub-research.com/articles/2022-05-02-try-make-your-blockchain-by-cosmossdk  
+https://hashhub-research.com/articles/2022-05-12-try-make-your-blockchain-by-cosmossdk-2  
+上記を参考に作業したリポジトリ。
+
 # ブロックチェーン起動方法
 ```
 $ ignite chain serve -r
