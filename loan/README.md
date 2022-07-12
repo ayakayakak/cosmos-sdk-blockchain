@@ -1,6 +1,6 @@
 # ブロックチェーン起動方法
 ```
-$ ignite chain serve
+$ ignite chain serve -r
 $ ~/go/bin/loand hogehgoge
 ```
 →~/go/binにパスが通っていないので、loandを実行するときは~/go/binが必要。  
